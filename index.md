@@ -3,7 +3,8 @@
 ## Favorite things about CS193
 - Practicing CS tools
 - Can't think of anything else honestly
--     
+-    f
+   
 ```markdown
 Syntax highlighted code block
 
